@@ -1,4 +1,4 @@
-let patas = 4;
+let patas = 5;
 let accion = "ladra";
 
 
